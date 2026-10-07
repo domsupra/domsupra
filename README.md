@@ -13,6 +13,7 @@ Most of my professional work lives in private repos. The projects below are publ
 | Project | What it is | Stack |
 |---|---|---|
 | [**agent-guardrails**](https://github.com/domsupra/agent-guardrails) | Code-enforced guardrails for autonomous coding agents: pre-tool-call deny hook, evidence-gated PR approval, loop detection. Born from a real incident. | Python |
+| [**local-coder-review-loop**](https://github.com/domsupra/local-coder-review-loop) | Local model writes code, a frontier reviewer grades it; every verdict becomes eval stats and SFT/DPO training data | Python, Ollama |
 | [**trackflow**](https://github.com/domsupra/trackflow) | Small, production-shaped event-tracking API: ingestion, validation, reporting | ASP.NET Core, C# |
 | [**openclaw-command-center**](https://github.com/domsupra/openclaw-command-center) | Tailscale-only mission-control UI for a multi-agent dev workflow: live agent activity, git/cron observability, headless agent dispatch | Python |
 | [**idle-garage-tycoon**](https://github.com/domsupra/idle-garage-tycoon) | Unity mobile idle game with clean data/view separation for a testable game economy | Unity, C# |
